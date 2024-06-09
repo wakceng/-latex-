@@ -23,7 +23,7 @@
 \RequirePackage{chngcntr}
 \RequirePackage{appendix}
 \RequirePackage{array}
-\RequirePackage{hyperref}
+\RequirePackage[colorlinks,linkcolor=black,anchorcolor=black,citecolor=black]{hyperref}
 
 
 \CJKfamily{宋体}
